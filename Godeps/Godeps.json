@@ -1,0 +1,5 @@
+{
+	"ImportPath": "go-helloworld",
+	"GoVersion": "go1.X",
+	"Deps": []
+}
